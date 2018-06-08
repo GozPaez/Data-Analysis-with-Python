@@ -1,4 +1,4 @@
-£####################
+####################
 # Author: Gustavo Paez
 # Date: 07 June 2018
 ####################
@@ -11,4 +11,5 @@ print ('Ich bin Gustavo Paez Lopez')
 print ('Hallo Ich bin Gustavo')
 print ('Commit2')
 print ('Commit')
+print ('Dos')
 print ('Uno')
